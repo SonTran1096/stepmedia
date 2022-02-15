@@ -1,0 +1,13 @@
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\bin\Debug\netcoreapp3.1\Stepmedia.exe
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\bin\Debug\netcoreapp3.1\Stepmedia.deps.json
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\bin\Debug\netcoreapp3.1\Stepmedia.runtimeconfig.json
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\bin\Debug\netcoreapp3.1\Stepmedia.runtimeconfig.dev.json
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\bin\Debug\netcoreapp3.1\Stepmedia.dll
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\bin\Debug\netcoreapp3.1\Stepmedia.pdb
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.csprojAssemblyReference.cache
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.AssemblyInfoInputs.cache
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.AssemblyInfo.cs
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.csproj.CoreCompileInputs.cache
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.dll
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.pdb
+D:\TNS\Stepmedia\Stepmedia\Stepmedia\obj\Debug\netcoreapp3.1\Stepmedia.genruntimeconfig.cache
